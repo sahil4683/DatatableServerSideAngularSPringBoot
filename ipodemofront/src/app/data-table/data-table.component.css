@@ -1,0 +1,4 @@
+::ng-deep .red-cell {
+    color: red !important;
+    background: rgb(236, 203, 110);
+}
